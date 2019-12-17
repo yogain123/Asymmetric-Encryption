@@ -1,3 +1,4 @@
+## Docker command run line by line from top to bottom
 FROM node:alpine
 
 WORKDIR /usr/nodeapp
