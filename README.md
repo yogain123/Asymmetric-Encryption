@@ -18,4 +18,7 @@ docker run -p 8000:8000 yogendra/encryption
 
 ## Run Outside of Docker Container
 
-`node index.js`
+` node index.js`
+
+## Author
+> yogendra Saxena
