@@ -7,3 +7,5 @@ Privacy-Enhanced Mail (PEM) is a de facto file format for storing and sending cr
 
 ## Encryption and Decryption Explaination
 https://www.youtube.com/watch?v=AQDCe585Lnc
+
+<b>Note</b>: Asymmetric Encryption is also called Public key Encryption
