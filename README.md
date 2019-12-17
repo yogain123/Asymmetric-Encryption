@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=AQDCe585Lnc
 ## Run Inside docker Container
 Reference : https://medium.com/@uix/running-a-node-application-in-docker-8950f176ec4e
 ```
-docker build -t yogendra/encryption  // build docker image
-docker run -p 8000:8000 yogendra/encryption  // run docker image as a container
+docker build -t yogendra/encryption  (build docker image)
+docker run -p 8000:8000 yogendra/encryption  (run docker image as a container)
 ```
 
 ## Run Outside of Docker Container
