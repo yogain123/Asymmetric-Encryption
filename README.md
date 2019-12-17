@@ -22,4 +22,4 @@ docker run -p 8000:8000 yogendra/encryption
 ` node index.js`
 
 ## Author
-> Yogendra Saxena
+Yogendra Saxena
