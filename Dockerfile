@@ -2,7 +2,7 @@
 # RUN lets you execute commands inside of your Docker image. ... 
 # CMD lets you define a default command to run when your container starts. 
 # You could say that CMD is a Docker run-time operation, meaning it's not something that gets executed at build time.
-#  It happens when you run an image
+# It happens when you run an image
 
 FROM node:alpine
 
